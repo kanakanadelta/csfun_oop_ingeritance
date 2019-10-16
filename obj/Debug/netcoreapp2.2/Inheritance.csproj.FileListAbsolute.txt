@@ -1,0 +1,11 @@
+/Users/rtongson/Documents/csharp/oopfun/Inheritance/bin/Debug/netcoreapp2.2/Inheritance.deps.json
+/Users/rtongson/Documents/csharp/oopfun/Inheritance/bin/Debug/netcoreapp2.2/Inheritance.runtimeconfig.json
+/Users/rtongson/Documents/csharp/oopfun/Inheritance/bin/Debug/netcoreapp2.2/Inheritance.runtimeconfig.dev.json
+/Users/rtongson/Documents/csharp/oopfun/Inheritance/bin/Debug/netcoreapp2.2/Inheritance.dll
+/Users/rtongson/Documents/csharp/oopfun/Inheritance/bin/Debug/netcoreapp2.2/Inheritance.pdb
+/Users/rtongson/Documents/csharp/oopfun/Inheritance/obj/Debug/netcoreapp2.2/Inheritance.csprojAssemblyReference.cache
+/Users/rtongson/Documents/csharp/oopfun/Inheritance/obj/Debug/netcoreapp2.2/Inheritance.csproj.CoreCompileInputs.cache
+/Users/rtongson/Documents/csharp/oopfun/Inheritance/obj/Debug/netcoreapp2.2/Inheritance.AssemblyInfoInputs.cache
+/Users/rtongson/Documents/csharp/oopfun/Inheritance/obj/Debug/netcoreapp2.2/Inheritance.AssemblyInfo.cs
+/Users/rtongson/Documents/csharp/oopfun/Inheritance/obj/Debug/netcoreapp2.2/Inheritance.dll
+/Users/rtongson/Documents/csharp/oopfun/Inheritance/obj/Debug/netcoreapp2.2/Inheritance.pdb
